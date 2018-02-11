@@ -1,8 +1,8 @@
 # Canales IPTV en abierto
 
-Lista de canales IPTV que se emiten en abierto por Internet. Especialmente España, y ampliando a Internacionales.
+Lista de canales IPTV de España o en español que emiten en abierto. Tambien se incluyen los enlaces web.
 
-Tutorial para *m3u8*: Algunos enlaces funcionan directamente bajándolos y haciendo doble click en ellos y abriéndolos en VLC. Los que no funcionen con ese método se han de abrir de esta forma: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc) (por *Softzone*)
+Estos canales se pueden ver gratuitamente con la aplicación adecuada según la plataforma que se utilice. En el ordenador basta con abrir el enlace al archivo m3u8 con el reproductor multimedia VLC. En la smart TV se puede utilizar la aplicación [SSIPTV] (http://ss-iptv.com/en) y en el móvil o la tableta se puede utilizar la aplicación [OttPlayer] (https://ottplayer.es). para *m3u8*: Algunos enlaces funcionan directamente bajándolos c y haciendo doble click en ellos y abriéndolos en VLC. Los que no funcionen con ese método se han de abrir de esta forma: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc) (por *Softzone*)
 
 Tutorial para *url*: Click en *url*.
 
