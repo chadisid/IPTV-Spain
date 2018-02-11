@@ -1,16 +1,14 @@
 # Canales IPTV en abierto
 
-Lista de canales IPTV de España o en español que emiten en abierto. Tambien se incluyen los enlaces web.
+Lista de canales de televisión de España o en español que emiten en abierto por Internet. Se incluyen los enlaces *m3u8* y los enlaces web. En algún caso en vez del enlace *m3u8* se incluye el enlace de la emisión en directo de Youtube.
 
-Estos canales se pueden ver gratuitamente con la aplicación adecuada según la plataforma que se utilice. En el ordenador basta con abrir el enlace al archivo m3u8 con el reproductor multimedia [VLC](https://www.videolan.org/vlc/index.es.html). En la smart TV la aplicación recomendada es [SSIPTV](http://ss-iptv.com/en) y en el móvil o la tableta se puede utilizar, por ejemplo, la aplicación [OttPlayer(https://ottplayer.es).
+Estos canales se pueden ver gratuitamente con la aplicación adecuada según la plataforma que se utilice. En el ordenador basta con abrir el enlace al archivo *m3u8* con el reproductor multimedia [VLC](https://www.videolan.org/vlc/index.es.html). En la smart TV la aplicación recomendada es [SSIPTV](http://ss-iptv.com/en) y en el móvil o la tableta se puede utilizar, por ejemplo, la aplicación [OttPlayer](https://ottplayer.es).
 
-Para abrir los enlaces m3u8 con el reproductor multimedia VLC se puede consultar es [tutorial](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc). Para utilizar SSIPTV se puede consultar este [tutorial](https://www.achotv.com/ssiptv.php). 
+Para abrir los enlaces m3u8 con el reproductor multimedia VLC se puede consultar es [tutorial](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc). Para utilizar la aplicación SSIPTV se puede consultar este [tutorial](https://www.achotv.com/ssiptv.php). 
 
-Tutorial para *url*: Click en *url*
+Si localizas algún error o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Ten en cuenta que algunos canales sólo emiten para España (emisión geolocalizada) o no emiten cuando no poseen los derechos de emisión de los contenidos fuera de España. Otros canales modifican su programación cuando emiten por Internet por problemas con los derechos de emisión de algunos contenidos.
 
-Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o abrir una *issue*.
-
-No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente se incluyen los enlaces que proporciona el mismo distribuidor de la emisión de forma oficial. Si posees los derechos de algún canal y deseas que lo retire, contactame.
+Únicamente se incluyen los enlaces de los servidores o plataformas oficiales. Si posees los derechos de algún canal y deseas que retire su enlace, contáctame.
 
 ## Canales de España
 
@@ -278,9 +276,3 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | NASA TV - Public | [m3u8](http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8) - [web](https://www.nasa.gov/multimedia/nasatv/#public)|
 | NASA TV - Media | [m3u8](http://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8)|
 | Animal Planet Live | [web](http://www.ustream.tv/embed/12762028?html5ui=1&autoplay=true) |
-
-### Canales de Andorra
-
-| Canal         | URL |
-| ------------- |------------- |
-| RTV Andorra   | [web](http://www.andorradifusio.ad/Endirecte/atv) |
