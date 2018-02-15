@@ -1,26 +1,24 @@
 # Canales IPTV en abierto
 
-Lista de canales de televisión de España o en español que emiten en abierto por Internet. Se incluyen los enlaces *m3u8* y los enlaces web. En algún caso en vez del enlace *m3u8* se incluye el enlace de la emisión en directo de Youtube.
+Lista de canales de televisión de España o en español que emiten en abierto mediante protocolo de Internet (IPTV). Se incluyen los enlaces al archivo de la lista de reproducción *m3u8* y los enlaces al reproductor *web*. En algún caso en vez del enlace *m3u8* se incluye el enlace de la emisión en directo de *Youtube*.
 
-Estos canales se pueden ver gratuitamente con la aplicación adecuada según la plataforma que se utilice. En el ordenador basta con abrir el enlace al archivo *m3u8* con el reproductor multimedia [VLC](https://www.videolan.org/vlc/index.es.html). En la smart TV la aplicación recomendada es [SSIPTV](http://ss-iptv.com/en) y en el móvil o la tableta se puede utilizar, por ejemplo, la aplicación [OttPlayer](https://ottplayer.es).
+Estos canales se pueden ver gratuitamente con la aplicación adecuada según la plataforma que se utilice. En el ordenador basta con abrir el enlace *m3u8* con el reproductor multimedia [VLC](https://www.videolan.org/vlc/index.es.html). En la *smart TV* la aplicación recomendada es [SSIPTV](http://ss-iptv.com/en) y en el móvil o la tableta se puede utilizar, por ejemplo, la aplicación [OttPlayer](https://ottplayer.es).
 
-Para abrir los enlaces m3u8 con el reproductor multimedia VLC se puede consultar es [tutorial](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc). Para utilizar la aplicación SSIPTV se puede consultar este [tutorial](https://www.achotv.com/ssiptv.php). 
+Para abrir los enlaces *m3u8* con el reproductor multimedia VLC se puede consultar es [tutorial](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc). Para utilizar la aplicación SSIPTV se puede consultar este [tutorial](https://www.achotv.com/ssiptv.php). 
 
-Si localizas algún error o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Ten en cuenta que algunos canales sólo emiten para España (emisión geolocalizada) o no emiten cuando no poseen los derechos de emisión de los contenidos fuera de España. Otros canales modifican su programación cuando emiten por Internet por problemas con los derechos de emisión de algunos contenidos.
+Si localizas algún error o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Ten en cuenta que algunos canales sólo emiten para España (emisión geolocalizada) o no emiten cuando no poseen los derechos de emisión del contenido fuera de España. Otros canales modifican su programación cuando emiten por Internet por problemas con los derechos de emisión de algunos contenidos.
 
 Únicamente se incluyen los enlaces de los servidores o plataformas oficiales. Si posees los derechos de algún canal y deseas que retire su enlace, contáctame.
 
 ## Canales de España
 
-### Nacionales
+### Generalistas
 
 | Canal         | URL |
 | ------------- |------------- |
 | La 1          | [m3u8 - 1](http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) - [m3u8 - 2](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
 | La 2          | [web](http://www.rtve.es/directo/la-2/)|
 | Antena 3      | [m3u8](http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
-| Antena 3 Eventos | [m3u8](http://a3live-lh.akamaihd.net/i/geoeventos15_1@309063/master.m3u8) |
-| Antena 3 Internacional  | |
 | Cuatro | [m3u8](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
 | Telecinco | [m3u8](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
 | La Sexta | [m3u8](http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
@@ -38,7 +36,6 @@ Si localizas algún error o deseas añadir algún canal, puedes contactarme o ab
 | Clan | |
 | Ten | |
 | DKiss | |
-| OT| [web](https://www.youtube.com/embed/6Lzw7oYTEMo?autoplay=1)|
 | TRECE TV | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) - [web](http://trecetv.es/directo)|
 | Paramount Channel | [web](http://www.paramountchannel.es/programacion/en-directo)|
 | Disney XD | [web](http://tv.disney.es/disney-channel?autoplay=true) |
@@ -65,7 +62,6 @@ Si localizas algún error o deseas añadir algún canal, puedes contactarme o ab
 | Canal         | URL |
 | ------------- |------------- |
 | Hit TV | [m3u8](http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8) - [web](http://www.hittv.es/) |
-| Deluxe Music | |
 
 ### Autonómicos
 
@@ -122,25 +118,8 @@ Si localizas algún error o deseas añadir algún canal, puedes contactarme o ab
 | 33 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/super3/)|
 | Esports 3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/esport3)|
 | La 1 Catalunya | [web](http://www.rtve.es/television/catalunya/directo/) |
-| Betevé | [m3u8](http://api-cdn.overon.es/SmilLive/getLiveIOS/.m3u8?stream=btv_stream01) |
 | 8tv | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8) - [web](http://www.8tv.cat/directe/) |
-| Badalona Televisió | [m3u8](http://live10.cdnmedia.tv/badalonatvlive/live.smil/playlist.m3u8) - [web](http://player.cdnmedia.tv/embed/6f1c739f) |
 | El Punt Avui TV | [m3u8](http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8) - [web](http://www.elpuntavui.tv/directe.html) |
-| Esplugues TV | [m3u8](http://live10.cdnmedia.tv/etvlive/live.smil/playlist.m3u8) - [web](http://www.etv.cat/en-directe) |
-| Mataró TV | [m3u8](http://live10.cdnmedia.tv/m1tvlive/live.smil/playlist.m3u8) - [web](http://m1tv.xiptv.cat/ma-en-directe) |
-| Mola TV | |
-| Lleida TV | [m3u8](http://live10.cdnmedia.tv/lleidatvlive/live.smil/playlist.m3u8) - [web](https://www.segre.com/suplements/lleida_tv/portada/streaming.html)|
-| Vallès Visió | [web](http://www.ustream.tv/embed/14420271?html5ui=1&autoplay=true) |
-| Televisió de Girona | [m3u8](http://ventdelnord.tv:8080/girona/directe.m3u8) - [web](http://tvgirona.xiptv.cat/tvendirecte) |
-| El Vendrell RTV | [web](http://www.ustream.tv/embed/13291828?html5ui=1&autoplay=true) |
-| Vallès Oriental TV | [m3u8](http://live10.cdnmedia.tv/votvlive/live.smil/playlist.m3u8) - [web](http://votv.xiptv.cat/votv-en-directe) |
-| El 9 TV | [m3u8](http://live10.cdnmedia.tv/9tvlive/live.smil/playlist.m3u8) - [web](http://el9nou.cat/el9tv/) |
-| Terrassa Vallès TV | [m3u8](http://173.212.214.184:1935/terrassaweb/terrassaweb/playlist.m3u8) - [web](http://www.movipbox.com/streamplayer/terrassa/index.php)|
-| Canal Blau | [m3u8](http://live10.cdnmedia.tv/blautvlive/live.smil/playlist.m3u8) - [web](http://www.canalblau.cat/televisio/televisio-en-directe/)|
-| Mar TV | [m3u8](http://k4.usastreams.com/CableLatino/martv/playlist.m3u8) - [web](http://martv.tv/emissio-en-directe/)|
-| TAC 12 | [m3u8](http://vid=live10.cdnmedia.tv/tac12live/live.smil/playlist.m3u8) - [web](http://www.tac12.tv/en-directe) |
-| 25 TV | [m3u8](http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8) - [web](http://www.25televisio.com/streaming.php) |
-| Canal Parlament | [web](https://www.parlament.cat/web/canal-parlament/directes/index.html) |
 
 #### Canarias
 
@@ -205,7 +184,6 @@ Si localizas algún error o deseas añadir algún canal, puedes contactarme o ab
 | Canal         | URL |
 | ------------- |------------- |
 | IB3 TV | [m3u8](https://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8) - [web](http://ib3tv.com/directe) |
-| Eivissa i Formentera TV | [m3u8](http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8) - [web](https://teftv.com/la-tef-en-directe/)|
 
 #### Madrid
 
@@ -215,11 +193,6 @@ Si localizas algún error o deseas añadir algún canal, puedes contactarme o ab
 | laOtra | [m3u8](http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8) - [web](http://www.telemadrid.es/emision-en-directo-laotra)|
 | C 33 Madrid | [web](http://www.ustream.tv/embed/15741867?html5ui&autoplay=true) |
 
-#### Melilla
-
-| Canal         | URL |
-| ------------- |------------- |
-| Melilla TV | [m3u8](http://melillatv-hls.flumotion.com/melillatv/ngrp:melillatv_all/playlist.m3u8) - [web](http://inmusa.es/directo.php)|
 
 #### Murcia
 
@@ -273,6 +246,4 @@ Si localizas algún error o deseas añadir algún canal, puedes contactarme o ab
 | Canal         | URL |
 | ------------- |------------- |
 | Hispan TV | [web](https://www.youtube.com/c/hispantv/live)|
-| NASA TV - Public | [m3u8](http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8) - [web](https://www.nasa.gov/multimedia/nasatv/#public)|
-| NASA TV - Media | [m3u8](http://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8)|
-| Animal Planet Live | [web](http://www.ustream.tv/embed/12762028?html5ui=1&autoplay=true) |
+
