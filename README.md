@@ -15,13 +15,13 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 ### Generalistas
 
 | Canales         | Resolución máxima | Enlaces |
-| ------------- |------------- |------------- |------------- |
-| La 1 | |[m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
-| La 2 | |[web](http://www.rtve.es/directo/la-2/)|
-| Antena 3 | | [m3u8](http://a3live-lh.ak amaihd.net/i/a3hds/antena3_1@35248/master.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
-| Cuatro | | [m3u8](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
-| Telecinco | | [m3u8](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
-| La Sexta | | [m3u8](http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
+| ------------- |------------- |------------- |
+| La 1 | 1024 x 576 |[m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
+| La 2 | 1024 x 576 |[web](http://www.rtve.es/directo/la-2/)|
+| Antena 3 | 1280 x 720 | [m3u8](http://a3live-lh.ak amaihd.net/i/a3hds/antena3_1@35248/master.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
+| Cuatro | 1280 x 720 | [m3u8](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
+| Telecinco | 1280 x 720 | [m3u8](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
+| La Sexta | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
 | Neox | | [m3u8](http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/) |
 | Nova | | [m3u8](http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
 | Mega | | [m3u8](http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8) - [web](http://www.atresplayer.com/directos/television/mega/)|
