@@ -1,10 +1,10 @@
 # Canales IPTV en abierto
 
-Lista de canales de televisión de España o en _español_ que emiten en abierto mediante protocolo de Internet (IPTV). Se incluyen los enlaces al archivo de la lista de reproducción *m3u8* y los enlaces al reproductor *web*. En algún caso en vez del enlace *m3u8* se incluye el enlace de la emisión en directo de *Youtube*.
+Lista de canales de televisión de España o en español que emiten en abierto mediante el protocolo de Internet (IPTV). Se incluyen los enlaces al archivo de la lista de reproducción **m3u8** y los enlaces al reproductor **web**. En algún caso en vez del enlace *m3u8* se incluye el enlace de la emisión en directo de **Youtube**.
 
-Estos canales se pueden ver gratuitamente con la aplicación adecuada según la plataforma que se utilice. En el ordenador basta con abrir el enlace *m3u8* con el reproductor multimedia [VLC](https://www.videolan.org/vlc/index.es.html). En la *smart TV* la aplicación recomendada es [SSIPTV](http://ss-iptv.com/en) y en el móvil o la tableta se puede utilizar, por ejemplo, la aplicación [OttPlayer](https://ottplayer.es).
+Estos canales se pueden ver gratuitamente con la aplicación adecuada según la plataforma que se utilice. En el **ordenador** basta con abrir el enlace *m3u8* con el reproductor multimedia [VLC](https://www.videolan.org/vlc/index.es.html). En la **smart TV** la aplicación recomendada es [SSIPTV](http://ss-iptv.com/en) y en el **móvil** o la **tableta** se puede utilizar, por ejemplo, la aplicación [OttPlayer](https://ottplayer.es).
 
-Para abrir los enlaces *m3u8* con el reproductor multimedia VLC se puede consultar el [tutorial](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc). Para usar la aplicación SSIPTV se puede consultar este [tutorial](https://www.achotv.com/ssiptv.php). 
+Para abrir los enlaces *m3u8* con el reproductor multimedia **VLC** se puede consultar el [tutorial](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc). Para usar la aplicación **SSIPTV** se puede consultar este [tutorial](https://www.achotv.com/ssiptv.php).
 
 Si encuentras algún error o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Ten en cuenta que algunos canales sólo emiten para España (emisión geolocalizada) o no emiten cuando no poseen los derechos de emisión del contenido fuera de España. Otros canales modifican su programación cuando no poseen los derechos de emisión por Internet de algún contenido.
 
@@ -14,7 +14,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 ### Generalistas
 
-| Canal         | URL |
+| Canal         | Resolución máxima | Enlace |
 | ------------- |------------- |
 | La 1          | [m3u8 - 1](http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) - [m3u8 - 2](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
 | La 2          | [web](http://www.rtve.es/directo/la-2/)|
