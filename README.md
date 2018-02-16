@@ -1,6 +1,6 @@
 # Canales IPTV en abierto
 
-Lista de canales de televisión de España o en español que emiten en abierto mediante protocolo de Internet (IPTV). Se incluyen los enlaces al archivo de la lista de reproducción *m3u8* y los enlaces al reproductor *web*. En algún caso en vez del enlace *m3u8* se incluye el enlace de la emisión en directo de *Youtube*.
+Lista de canales de televisión de España o en _español_ que emiten en abierto mediante protocolo de Internet (IPTV). Se incluyen los enlaces al archivo de la lista de reproducción *m3u8* y los enlaces al reproductor *web*. En algún caso en vez del enlace *m3u8* se incluye el enlace de la emisión en directo de *Youtube*.
 
 Estos canales se pueden ver gratuitamente con la aplicación adecuada según la plataforma que se utilice. En el ordenador basta con abrir el enlace *m3u8* con el reproductor multimedia [VLC](https://www.videolan.org/vlc/index.es.html). En la *smart TV* la aplicación recomendada es [SSIPTV](http://ss-iptv.com/en) y en el móvil o la tableta se puede utilizar, por ejemplo, la aplicación [OttPlayer](https://ottplayer.es).
 
