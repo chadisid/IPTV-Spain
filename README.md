@@ -16,35 +16,35 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canal         | Resolución máxima | Enlace |
 | ------------- |------------- |------------- |
-| La 1          | [m3u8 - 1](http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) - [m3u8 - 2](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
-| La 2          | [web](http://www.rtve.es/directo/la-2/)|
-| Antena 3      | [m3u8](http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
-| Cuatro | [m3u8](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
-| Telecinco | [m3u8](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
-| La Sexta | [m3u8](http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
-| Neox | [m3u8](http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/) |
-| Nova | [m3u8](http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
-| Mega | [m3u8](http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8) - [web](http://www.atresplayer.com/directos/television/mega/)|
-| Atresseries | [m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/) |
-| Atresseries Internacional | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255336/a3series/master.m3u8) |
-| Factoria De Ficción | [web](http://www.mitele.es/directo/fdf)|
-| Boing | [web](http://www.mitele.es/directo/boing)|
-| Energy | [web](http://www.mitele.es/directo/energy) |
-| Divinity | [web](http://www.mitele.es/directo/divinity)|
-| BeMad | [web](http://www.mitele.es/directo/bemad)|
-| 24h | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
-| Clan | |
-| Ten | |
-| DKiss | |
-| TRECE TV | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) - [web](http://trecetv.es/directo)|
-| Paramount Channel | [web](http://www.paramountchannel.es/programacion/en-directo)|
-| Disney XD | [web](http://tv.disney.es/disney-channel?autoplay=true) |
-| Intereconomía | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) - [web](http://www.intereconomia.tv/) |
-| Libertad Digital TV | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
-| Canal Parlamento | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
-| Solidaria TV | [m3u8](http://panel.cdnstreamserver.com/live/solidariatv-webhd.m3u8) - [web](http://es.solidariatv.com/en-vivo) |
-| Vaughan TV | [web](https://grupovaughan.com/vaughan-tv/)|
-| EuropaPress | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)|
+| La 1 | |[m3u8 - 1](http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) - [m3u8 - 2](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
+| La 2 | |[web](http://www.rtve.es/directo/la-2/)|
+| Antena 3 | | [m3u8](http://a3live-lh.ak amaihd.net/i/a3hds/antena3_1@35248/master.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
+| Cuatro | | [m3u8](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
+| Telecinco | | [m3u8](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
+| La Sexta | | [m3u8](http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
+| Neox | | [m3u8](http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/) |
+| Nova | | [m3u8](http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
+| Mega | | [m3u8](http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8) - [web](http://www.atresplayer.com/directos/television/mega/)|
+| Atresseries | | [m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/) |
+| Atresseries Internacional | | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255336/a3series/master.m3u8) |
+| Factoria De Ficción | | [web](http://www.mitele.es/directo/fdf)|
+| Boing | | [web](http://www.mitele.es/directo/boing)|
+| Energy | | [web](http://www.mitele.es/directo/energy) |
+| Divinity | | [web](http://www.mitele.es/directo/divinity)|
+| BeMad | | [web](http://www.mitele.es/directo/bemad)|
+| 24h | | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
+| Clan | | |
+| Ten | | |
+| DKiss | | |
+| TRECE TV | | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) - [web](http://trecetv.es/directo)|
+| Paramount Channel | | [web](http://www.paramountchannel.es/programacion/en-directo)|
+| Disney XD | | [web](http://tv.disney.es/disney-channel?autoplay=true) |
+| Intereconomía | [m3u8](http://s |treaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) - [web](http://www.intereconomia.tv/) |
+| Libertad Digital TV | | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
+| Canal Parlamento | | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
+| Solidaria TV | | [m3u8](http://panel.cdnstreamserver.com/live/solidariatv-webhd.m3u8) - [web](http://es.solidariatv.com/en-vivo) |
+| Vaughan TV | | [web](https://grupovaughan.com/vaughan-tv/)|
+| EuropaPress | | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)|
 
 ### Deportivos
 
