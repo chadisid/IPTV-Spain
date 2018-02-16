@@ -62,7 +62,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | Hispan TV | 1280 x 720 | [web](https://www.youtube.com/c/hispantv/live)|
-1280 x 720 |
+
 ### Musicales
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
@@ -74,14 +74,14 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Canal Sur TV | [web](https://www.youtube.com/watch?v=9_mHRWjztNU)|
-| Canal Sur Turismo TV | [web](http://canalandaluciaturismo.es/index_pc.php)|
+| Canal Sur TV | 1280 x 720 | [web](https://www.youtube.com/watch?v=9_mHRWjztNU)|
+| Canal Sur Turismo TV | 1280 x 720 | [web](http://canalandaluciaturismo.es/index_pc.php)|
 
 #### Aragón
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Aragón TV | [m3u8](http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8) - [web](http://www.aragontelevision.es/) |
+| Aragón TV | 1280 x 720 | [m3u8](http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8) - [web](http://www.aragontelevision.es/) |
 
 #### Asturias
 
