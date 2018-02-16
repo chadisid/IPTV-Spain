@@ -1,6 +1,6 @@
 # Canales IPTV en abierto
 
-Lista de canales de televisión de España o en español que emiten en abierto mediante el protocolo de Internet (IPTV). Se incluyen los enlaces al archivo de la lista de reproducción **m3u8** y los enlaces al reproductor **web**. En algún caso en vez del enlace *m3u8* se incluye el enlace de la emisión en directo de **Youtube**.
+Lista de canales de televisión de España o en español que emiten en abierto mediante el protocolo de Internet (IPTV). Se indican los enlaces a los archivos de lista de reproducción **m3u8** y también los enlaces al reproductor **web**. En algún caso también se incluye el enlace de la emisión en directo de **Youtube**.
 
 Estos canales se pueden ver gratuitamente con la aplicación adecuada según la plataforma que se utilice. En el **ordenador** basta con abrir el enlace *m3u8* con el reproductor multimedia [VLC](https://www.videolan.org/vlc/index.es.html). En la **smart TV** la aplicación recomendada es [SSIPTV](http://ss-iptv.com/en) y en el **móvil** o la **tableta** se puede utilizar, por ejemplo, la aplicación [OttPlayer](https://ottplayer.es).
 
@@ -17,14 +17,19 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | La 1 | 1024 x 576 |[m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
 | La 2 | 1024 x 576 |[web](http://www.rtve.es/directo/la-2/)|
 | Antena 3 | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
-| Cuatro | 1280 x 720 | [m3u8](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
-| Telecinco | 1280 x 720 | [m3u8](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
+| Cuatro HD | 1280 x 720 | [m3u8](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
+| Telecinco HD | 1280 x 720 | [m3u8](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
 | La Sexta | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
+
+## Canales temáticos
+
+### Canales de entretenimiento
+
 | Neox | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/) |
 | Nova | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
 | Mega | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8) - [web](http://www.atresplayer.com/directos/television/mega/)|
-| Atresseries | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/) |
-| Atresseries Internacional | 1280 x 720 | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255336/a3series/master.m3u8) |
+| Atreseries | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/) |
+| Atreseries Internacional | 1280 x 720 | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255336/a3series/master.m3u8) |
 | Factoria De Ficción | 1280 x 720 | [web](http://www.mitele.es/directo/fdf)|
 | Boing | 1280 x 720 | [web](http://www.mitele.es/directo/boing)|
 | Energy | 1280 x 720 | [web](http://www.mitele.es/directo/energy) |
@@ -36,7 +41,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | DKiss | 1280 x 720 | |
 | TRECE TV | 1280 x 720 | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) - [web](http://trecetv.es/directo)|
 | Paramount Channel | 1280 x 720 | [web](http://www.paramountchannel.es/programacion/en-directo)|
-| Disney XD | 1280 x 720 | [web](http://tv.disney.es/disney-channel?autoplay=true) |
+| Disney Channel | 1280 x 720 | [web](http://tv.disney.es/disney-channel?autoplay=true) |
 | Intereconomía | 1280 x 720 | [m3u8](http://s |treaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) - [web](http://www.intereconomia.tv/) |
 | Libertad Digital TV | 1280 x 720 | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
 | Canal Parlamento | 1280 x 720 | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
@@ -44,7 +49,9 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Vaughan TV | 1280 x 720 | [web](https://grupovaughan.com/vaughan-tv/)|
 | EuropaPress | 1280 x 720 | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)|
 
-## Canales Deportivos
+### Canales infantiles
+
+### Canales de deporte
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
@@ -56,12 +63,12 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Betis TV | 1280 x 720 | [m3u8](http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8) - [web](http://play.rbetis.webtv.flumotion.com/play/player?player=1&pod=3)|
 | Sevilla TV |1280 x 720 | [m3u8](http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8) - [web](http://live.sevillafc.es/) |
 
-## Canales informativos
+### Canales de noticias
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | Hispan TV | 1280 x 720 | [web](https://www.youtube.com/c/hispantv/live)|
 
-## Canales musicales
+### Canales de música
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | Hit TV | 1280 x 720 | [m3u8](http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8) - [web](http://www.hittv.es/) |
@@ -81,7 +88,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | ------------- |------------- |------------- |
 | Aragón TV | 1280 x 720 | [m3u8](http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8) - [web](http://www.aragontelevision.es/) |
 
-### Asturias
+### Principado de Asturias
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
@@ -148,13 +155,13 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Galicia Cultura TV | 1280 x 720 | [m3u8](http://cultural-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/en-directo/canles-directos-tvg/cultura)|
 | Galicia Momentos G TV | 1280 x 720 | [m3u8](http://momentog-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/en-directo/canles-directos-tvg/momentosG)|
 
-### Baleares
+### Islas Baleares
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | IB3 TV | 1280 x 720 | [m3u8](https://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8) - [web](http://ib3tv.com/directe) |
 
-### Madrid
+### Comunidad de Madrid
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
@@ -163,7 +170,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | C 33 Madrid | 1280 x 720 | [web](http://www.ustream.tv/embed/15741867?html5ui&autoplay=true) |
 
 
-### Murcia
+### Región de Murcia
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
@@ -187,7 +194,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | ------------- |------------- |------------- |
 | TV Rioja | 1280 x 720 | [web](http://www.tvr.es/directo/) |
 
-### Valencia
+### Comunidad Valenciana
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
