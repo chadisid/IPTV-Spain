@@ -15,7 +15,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 ### Generalistas
 
 | Canal         | Resolución máxima | Enlace |
-| ------------- |------------- |
+| ------------- |------------- |------------- |
 | La 1          | [m3u8 - 1](http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) - [m3u8 - 2](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
 | La 2          | [web](http://www.rtve.es/directo/la-2/)|
 | Antena 3      | [m3u8](http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
