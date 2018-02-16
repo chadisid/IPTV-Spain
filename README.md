@@ -10,9 +10,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 Únicamente se incluyen los enlaces de los servidores o las plataformas oficiales. Si tienes los derechos de algún canal y quieres que retire su enlace, contáctame.
 
-## Canales de España
-
-### Generalistas
+## Canales generalistas
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
@@ -46,7 +44,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Vaughan TV | 1280 x 720 | [web](https://grupovaughan.com/vaughan-tv/)|
 | EuropaPress | 1280 x 720 | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)|
 
-### Deportivos
+## Canales Deportivos
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
@@ -58,39 +56,39 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Betis TV | 1280 x 720 | [m3u8](http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8) - [web](http://play.rbetis.webtv.flumotion.com/play/player?player=1&pod=3)|
 | Sevilla TV |1280 x 720 | [m3u8](http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8) - [web](http://live.sevillafc.es/) |
 
-## Información
+## Canales informativos
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | Hispan TV | 1280 x 720 | [web](https://www.youtube.com/c/hispantv/live)|
 
-### Musicales
+## Canales musicales
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | Hit TV | 1280 x 720 | [m3u8](http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8) - [web](http://www.hittv.es/) |
 
-### Autonómicos
+## Canales autonómicos
 
-#### Andalucía
+### Andalucía
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | Canal Sur TV | 1280 x 720 | [web](https://www.youtube.com/watch?v=9_mHRWjztNU)|
 | Canal Sur Turismo TV | 1280 x 720 | [web](http://canalandaluciaturismo.es/index_pc.php)|
 
-#### Aragón
+### Aragón
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | Aragón TV | 1280 x 720 | [m3u8](http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8) - [web](http://www.aragontelevision.es/) |
 
-#### Asturias
+### Asturias
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | Asturias RTV | 1280 x 720 | [m3u8](http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8) - [web](http://www.rtpa.es/television) |
 | Tele Asturias | 1280 x 720 | [web](http://tvonline.teleasturias.com/) |
 
-#### Catalunya
+### Cataluña
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
@@ -103,7 +101,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | 8tv | 1280 x 720 | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8) - [web](http://www.8tv.cat/directe/) |
 | El Punt Avui TV | 1280 x 720 | [m3u8](http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8) - [web](http://www.elpuntavui.tv/directe.html) |
 
-#### Canarias
+### Canarias
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
@@ -113,33 +111,33 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Lancelot TV | 1280 x 720 | [m3u8](http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8) - [web](http://www.lancelot.tv/directo)|
 
 
-#### Cantabria
+### Cantabria
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | Popular TV | 1280 x 720 | [m3u8](http://cls.todostreaming.eu/ptvcantabria/livestream/playlist.m3u8) - [web](http://populartvcantabria.com/livetv/) |
 
-#### Castilla la Mancha
+### Castilla-La Mancha
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | Castilla-La Mancha Media | 1280 x 720 | [m3u8 - 1](http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/master.m3u8) - [m3u8 - 2](http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/1_c9gw17x6/format/applehttp/master.m3u8) - [web](http://www.cmmedia.es/en-directo/tv/) |
 
 
-#### Castilla y León
+### Castilla y León
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | RTV Castilla y León | 1280 x 720 | [web](http://www.rtvcyl.es/Directo.aspx) |
 
 
-#### Extremadura
+### Extremadura
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | Canal Extremadura | 1280 x 720 | [m3u8](http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist.m3u8) - [web](http://www.canalextremadura.es/tv/directo#ahora)|
 
-#### Galicia
+### Galicia
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
@@ -150,13 +148,13 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Galicia Cultura TV | 1280 x 720 | [m3u8](http://cultural-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/en-directo/canles-directos-tvg/cultura)|
 | Galicia Momentos G TV | 1280 x 720 | [m3u8](http://momentog-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/en-directo/canles-directos-tvg/momentosG)|
 
-#### Islas Baleares
+### Baleares
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | IB3 TV | 1280 x 720 | [m3u8](https://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8) - [web](http://ib3tv.com/directe) |
 
-#### Madrid
+### Madrid
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
@@ -165,33 +163,32 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | C 33 Madrid | 1280 x 720 | [web](http://www.ustream.tv/embed/15741867?html5ui&autoplay=true) |
 
 
-#### Murcia
+### Murcia
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | 7RM Radio Televisión Murcia | 1280 x 720 | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) - [web](http://webtv.7tvregiondemurcia.es/) |
 
-#### Navarra
+### Navarra
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | Navarra TV | 1280 x 720 | [web](http://www.natv.es/Directo) |
 
-#### Pais Vasco
+### Pais Vasco
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | ETB SAT Canal Vasco | 1280 x 720 | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8) - [web](http://www.eitb.eus/es/television/etb-sat/) |
 
-#### La Rioja
+### La Rioja
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | TV Rioja | 1280 x 720 | [web](http://www.tvr.es/directo/) |
 
-#### Valencia
+### Valencia
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-
 | La 8 Mediterraneo | 1280 x 720 | [m3u8](http://streaming-fr02.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8)[web](http://www.laocho.tv/es/directo/) |
