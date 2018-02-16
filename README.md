@@ -4,11 +4,11 @@ Lista de canales de televisión de España o en español que emiten en abierto m
 
 Estos canales se pueden ver gratuitamente con la aplicación adecuada según la plataforma que se utilice. En el ordenador basta con abrir el enlace *m3u8* con el reproductor multimedia [VLC](https://www.videolan.org/vlc/index.es.html). En la *smart TV* la aplicación recomendada es [SSIPTV](http://ss-iptv.com/en) y en el móvil o la tableta se puede utilizar, por ejemplo, la aplicación [OttPlayer](https://ottplayer.es).
 
-Para abrir los enlaces *m3u8* con el reproductor multimedia VLC se puede consultar es [tutorial](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc). Para utilizar la aplicación SSIPTV se puede consultar este [tutorial](https://www.achotv.com/ssiptv.php). 
+Para abrir los enlaces *m3u8* con el reproductor multimedia VLC se puede consultar el [tutorial](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc). Para usar la aplicación SSIPTV se puede consultar este [tutorial](https://www.achotv.com/ssiptv.php). 
 
-Si localizas algún error o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Ten en cuenta que algunos canales sólo emiten para España (emisión geolocalizada) o no emiten cuando no poseen los derechos de emisión del contenido fuera de España. Otros canales modifican su programación cuando emiten por Internet por problemas con los derechos de emisión de algunos contenidos.
+Si encuentras algún error o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Ten en cuenta que algunos canales sólo emiten para España (emisión geolocalizada) o no emiten cuando no poseen los derechos de emisión del contenido fuera de España. Otros canales modifican su programación cuando no poseen los derechos de emisión por Internet de algún contenido.
 
-Únicamente se incluyen los enlaces de los servidores o plataformas oficiales. Si posees los derechos de algún canal y deseas que retire su enlace, contáctame.
+Únicamente se incluyen los enlaces de los servidores o las plataformas oficiales. Si tienes los derechos de algún canal y quieres que retire su enlace, contáctame.
 
 ## Canales de España
 
