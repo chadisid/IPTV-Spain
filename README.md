@@ -18,55 +18,55 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | ------------- |------------- |------------- |
 | La 1 | 1024 x 576 |[m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
 | La 2 | 1024 x 576 |[web](http://www.rtve.es/directo/la-2/)|
-| Antena 3 | 1280 x 720 | [m3u8](http://a3live-lh.ak amaihd.net/i/a3hds/antena3_1@35248/master.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
+| Antena 3 | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
 | Cuatro | 1280 x 720 | [m3u8](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
 | Telecinco | 1280 x 720 | [m3u8](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
 | La Sexta | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
-| Neox | | [m3u8](http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/) |
-| Nova | | [m3u8](http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
-| Mega | | [m3u8](http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8) - [web](http://www.atresplayer.com/directos/television/mega/)|
-| Atresseries | | [m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/) |
-| Atresseries Internacional | | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255336/a3series/master.m3u8) |
-| Factoria De Ficción | | [web](http://www.mitele.es/directo/fdf)|
-| Boing | | [web](http://www.mitele.es/directo/boing)|
-| Energy | | [web](http://www.mitele.es/directo/energy) |
-| Divinity | | [web](http://www.mitele.es/directo/divinity)|
-| BeMad | | [web](http://www.mitele.es/directo/bemad)|
-| 24h | | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
-| Clan | | |
-| Ten | | |
-| DKiss | | |
-| TRECE TV | | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) - [web](http://trecetv.es/directo)|
-| Paramount Channel | | [web](http://www.paramountchannel.es/programacion/en-directo)|
-| Disney XD | | [web](http://tv.disney.es/disney-channel?autoplay=true) |
-| Intereconomía | [m3u8](http://s |treaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) - [web](http://www.intereconomia.tv/) |
-| Libertad Digital TV | | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
-| Canal Parlamento | | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
-| Solidaria TV | | [m3u8](http://panel.cdnstreamserver.com/live/solidariatv-webhd.m3u8) - [web](http://es.solidariatv.com/en-vivo) |
-| Vaughan TV | | [web](https://grupovaughan.com/vaughan-tv/)|
-| EuropaPress | | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)|
+| Neox | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/) |
+| Nova | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
+| Mega | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8) - [web](http://www.atresplayer.com/directos/television/mega/)|
+| Atresseries | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/) |
+| Atresseries Internacional | 1280 x 720 | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255336/a3series/master.m3u8) |
+| Factoria De Ficción | 1280 x 720 | [web](http://www.mitele.es/directo/fdf)|
+| Boing | 1280 x 720 | [web](http://www.mitele.es/directo/boing)|
+| Energy | 1280 x 720 | [web](http://www.mitele.es/directo/energy) |
+| Divinity | 1280 x 720 | [web](http://www.mitele.es/directo/divinity)|
+| BeMad | 1280 x 720 | [web](http://www.mitele.es/directo/bemad)|
+| 24h | 1280 x 720 | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
+| Clan | 1280 x 720 | |
+| Ten | 1280 x 720 | |
+| DKiss | 1280 x 720 | |
+| TRECE TV | 1280 x 720 | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) - [web](http://trecetv.es/directo)|
+| Paramount Channel | 1280 x 720 | [web](http://www.paramountchannel.es/programacion/en-directo)|
+| Disney XD | 1280 x 720 | [web](http://tv.disney.es/disney-channel?autoplay=true) |
+| Intereconomía | 1280 x 720 | [m3u8](http://s |treaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) - [web](http://www.intereconomia.tv/) |
+| Libertad Digital TV | 1280 x 720 | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
+| Canal Parlamento | 1280 x 720 | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
+| Solidaria TV | 1280 x 720 | [m3u8](http://panel.cdnstreamserver.com/live/solidariatv-webhd.m3u8) - [web](http://es.solidariatv.com/en-vivo) |
+| Vaughan TV | 1280 x 720 | [web](https://grupovaughan.com/vaughan-tv/)|
+| EuropaPress | 1280 x 720 | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)|
 
 ### Deportivos
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| TDP | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8) - [web](http://www.rtve.es/directo/teledeporte/)| 
-| TDP HD | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8) - [web](http://www.rtve.es/deportes/mas-tdp/directo/)|
-| Gol TV | [m3u8](http://cdn.opencable.es/hls/live/goltv/index.m3u8) - [web](http://www.goltelevision.com/live) |
-| Real Madrid TV | [m3u8 - Español](http://https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 - Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) - [web](http://www.realmadrid.com/real-madrid-tv) |
-| Barça TV | |
-| Betis TV | [m3u8](http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8) - [web](http://play.rbetis.webtv.flumotion.com/play/player?player=1&pod=3)|
-| Sevilla TV | [m3u8](http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8) - [web](http://live.sevillafc.es/) |
+| TDP | 1280 x 720 | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8) - [web](http://www.rtve.es/directo/teledeporte/)| 
+| TDP HD | 1280 x 720 | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8) - [web](http://www.rtve.es/deportes/mas-tdp/directo/)|
+| Gol TV | 1280 x 720 | [m3u8](http://cdn.opencable.es/hls/live/goltv/index.m3u8) - [web](http://www.goltelevision.com/live) |
+| Real Madrid TV | 1280 x 720 | [m3u8 - Español](http://https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 - Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) - [web](http://www.realmadrid.com/real-madrid-tv) |
+| Barça TV | 1280 x 720 | |
+| Betis TV | 1280 x 720 | [m3u8](http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8) - [web](http://play.rbetis.webtv.flumotion.com/play/player?player=1&pod=3)|
+| Sevilla TV |1280 x 720 | [m3u8](http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8) - [web](http://live.sevillafc.es/) |
 
 ## Información
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Hispan TV | [web](https://www.youtube.com/c/hispantv/live)|
-
+| Hispan TV | 1280 x 720 | [web](https://www.youtube.com/c/hispantv/live)|
+1280 x 720 |
 ### Musicales
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Hit TV | [m3u8](http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8) - [web](http://www.hittv.es/) |
+| Hit TV | 1280 x 720 | [m3u8](http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8) - [web](http://www.hittv.es/) |
 
 ### Autonómicos
 
