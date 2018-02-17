@@ -2,7 +2,7 @@
 
 Lista de canales de televisión de España o en español que emiten en abierto mediante el protocolo de Internet (IPTV). Se indican los enlaces a los archivos de lista de reproducción **m3u8** y también los enlaces al reproductor **web**. En algún caso también se incluye el enlace de la emisión en directo de **Youtube**.
 
-Estos canales se pueden ver gratuitamente con la aplicación adecuada según la plataforma que se utilice. En el **ordenador** basta con abrir el enlace *m3u8* con el reproductor multimedia [VLC](https://www.videolan.org/vlc/index.es.html). En la **smart TV** la aplicación recomendada es [SSIPTV](http://ss-iptv.com/en) y en el **móvil** o la **tableta** se puede utilizar, por ejemplo, la aplicación [OttPlayer](https://ottplayer.es).
+Estos canales se pueden ver gratuitamente con la aplicación adecuada según la plataforma que se utilice. En el **ordenador** basta con abrir el enlace *m3u8* o *Youtube* con el reproductor multimedia [VLC](https://www.videolan.org/vlc/index.es.html). En la **smart TV** la aplicación recomendada es [SSIPTV](http://ss-iptv.com/en) y en el **móvil** o la **tableta** se puede utilizar, por ejemplo, la aplicación [OttPlayer](https://ottplayer.es).
 
 Para abrir los enlaces *m3u8* con el reproductor multimedia **VLC** se puede consultar el [tutorial](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc). Para usar la aplicación **SSIPTV** se puede consultar este [tutorial](https://www.achotv.com/ssiptv.php).
 
@@ -23,7 +23,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 ## Canales temáticos
 
-### Canales de entretenimiento
+### Entretenimiento
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
@@ -33,17 +33,17 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Atreseries | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/)|
 | Atreseries Internacional | 1280 x 720 | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255336/a3series/master.m3u8)|
 | Factoria De Ficción | 1280 x 720 | [web](http://www.mitele.es/directo/fdf)|
-| Boing | 1280 x 720 | [web](http://www.mitele.es/directo/boing)|
+
 | Energy | 1280 x 720 | [web](http://www.mitele.es/directo/energy) |
 | Divinity | 1280 x 720 | [web](http://www.mitele.es/directo/divinity)|
 | BeMad | 1280 x 720 | [web](http://www.mitele.es/directo/bemad)|
-| 24h | 1280 x 720 | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
-| Clan | 1280 x 720 | |
+
+
 | Ten | 1280 x 720 | |
 | DKiss | 1280 x 720 | |
 | TRECE TV | 1280 x 720 | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) - [web](http://trecetv.es/directo)|
 | Paramount Channel | 1280 x 720 | [web](http://www.paramountchannel.es/programacion/en-directo)|
-| Disney Channel | 1280 x 720 | [web](http://tv.disney.es/disney-channel?autoplay=true) |
+
 | Intereconomía | 1280 x 720 | [m3u8](http://s |treaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) - [web](http://www.intereconomia.tv/) |
 | Libertad Digital TV | 1280 x 720 | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
 | Canal Parlamento | 1280 x 720 | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
@@ -51,29 +51,33 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Vaughan TV | 1280 x 720 | [web](https://grupovaughan.com/vaughan-tv/)|
 | EuropaPress | 1280 x 720 | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)|
 
-### Canales infantiles
+### Infantiles
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
+| Clan | 1280 x 720 | |
+| Boing | 1280 x 720 | [web](http://www.mitele.es/directo/boing)|
+| Disney Channel | 1280 x 720 | [web](http://tv.disney.es/disney-channel?autoplay=true) |
 
-### Canales de deporte
+### Deporte
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| TDP | 1280 x 720 | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8) - [web](http://www.rtve.es/directo/teledeporte/)| 
-| TDP HD | 1280 x 720 | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8) - [web](http://www.rtve.es/deportes/mas-tdp/directo/)|
+| Teledeporte | 1280 x 720 | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8) - [web](http://www.rtve.es/directo/teledeporte/)| 
+| Teledeporte HD | 1280 x 720 | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8) - [web](http://www.rtve.es/deportes/mas-tdp/directo/)|
 | Gol TV | 1280 x 720 | [m3u8](http://cdn.opencable.es/hls/live/goltv/index.m3u8) - [web](http://www.goltelevision.com/live) |
 | Real Madrid TV | 1280 x 720 | [m3u8 - Español](http://https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 - Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) - [web](http://www.realmadrid.com/real-madrid-tv) |
 | Barça TV | 1280 x 720 | |
 | Betis TV | 1280 x 720 | [m3u8](http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8) - [web](http://play.rbetis.webtv.flumotion.com/play/player?player=1&pod=3)|
 | Sevilla TV |1280 x 720 | [m3u8](http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8) - [web](http://live.sevillafc.es/) |
 
-### Canales de noticias
+### Noticias
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
+| 24h | 1280 x 720 | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
 | Hispan TV | 1280 x 720 | [web](https://www.youtube.com/c/hispantv/live)|
 
-### Canales de música
+### Música
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | Hit TV | 1280 x 720 | [m3u8](http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8) - [web](http://www.hittv.es/) |
@@ -105,10 +109,10 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | TV3 | 1280 x 720 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/tv3)|
-| TV3 Internacional| 1280 x 720 | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8) |
-| 324 | 1280 x 720 | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/324)|
-| 33 | 1280 x 720 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/super3/)|
-| Esports 3 | 1280 x 720 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/esport3)|
+| TV3CAT| 1280 x 720 | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8) |
+| 3/24 | 1280 x 720 | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/324)|
+| Super3/33 | 1280 x 720 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/super3/)|
+| Esports3 | 1280 x 720 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/esport3)|
 | La 1 Catalunya | 1280 x 720 | [web](http://www.rtve.es/television/catalunya/directo/) |
 | 8tv | 1280 x 720 | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8) - [web](http://www.8tv.cat/directe/) |
 | El Punt Avui TV | 1280 x 720 | [m3u8](http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8) - [web](http://www.elpuntavui.tv/directe.html) |
