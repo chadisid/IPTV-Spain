@@ -33,23 +33,15 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Atreseries | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/)|
 | Atreseries Internacional | 1280 x 720 | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255336/a3series/master.m3u8)|
 | Factoria De Ficción | 1280 x 720 | [web](http://www.mitele.es/directo/fdf)|
-
 | Energy | 1280 x 720 | [web](http://www.mitele.es/directo/energy) |
 | Divinity | 1280 x 720 | [web](http://www.mitele.es/directo/divinity)|
-| BeMad | 1280 x 720 | [web](http://www.mitele.es/directo/bemad)|
-
-
+| BeMad HD | 1280 x 720 | [web](http://www.mitele.es/directo/bemad)|
 | Ten | 1280 x 720 | |
 | DKiss | 1280 x 720 | |
 | TRECE TV | 1280 x 720 | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) - [web](http://trecetv.es/directo)|
 | Paramount Channel | 1280 x 720 | [web](http://www.paramountchannel.es/programacion/en-directo)|
-
 | Intereconomía | 1280 x 720 | [m3u8](http://s |treaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) - [web](http://www.intereconomia.tv/) |
-| Libertad Digital TV | 1280 x 720 | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
-| Canal Parlamento | 1280 x 720 | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
-| Solidaria TV | 1280 x 720 | [m3u8](http://panel.cdnstreamserver.com/live/solidariatv-webhd.m3u8) - [web](http://es.solidariatv.com/en-vivo) |
-| Vaughan TV | 1280 x 720 | [web](https://grupovaughan.com/vaughan-tv/)|
-| EuropaPress | 1280 x 720 | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)|
+
 
 ### Infantiles
 
@@ -75,7 +67,10 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | 24h | 1280 x 720 | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
+| EuropaPress | 1280 x 720 | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)|
 | Hispan TV | 1280 x 720 | [web](https://www.youtube.com/c/hispantv/live)|
+| Libertad Digital TV | 1280 x 720 | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
+| Canal Parlamento | 1280 x 720 | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
 
 ### Música
 | Canales         | Resolución máxima | Enlaces |
