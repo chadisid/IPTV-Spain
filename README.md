@@ -20,6 +20,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Cuatro HD | 1280 x 720 | [m3u8](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
 | Telecinco HD | 1280 x 720 | [m3u8](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
 | La Sexta | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
+| Trece | 1280 x 720 | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) - [web](http://trecetv.es/directo)|
 
 ## Canales temáticos
 
@@ -38,9 +39,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | BeMad HD | 1280 x 720 | [web](http://www.mitele.es/directo/bemad)|
 | Ten | 1280 x 720 | |
 | DKiss | 1280 x 720 | |
-| TRECE TV | 1280 x 720 | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) - [web](http://trecetv.es/directo)|
 | Paramount Channel | 1280 x 720 | [web](http://www.paramountchannel.es/programacion/en-directo)|
-| Intereconomía | 1280 x 720 | [m3u8](http://s |treaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) - [web](http://www.intereconomia.tv/) |
 
 
 ### Infantiles
@@ -63,7 +62,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Betis TV | 1280 x 720 | [m3u8](http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8) - [web](http://play.rbetis.webtv.flumotion.com/play/player?player=1&pod=3)|
 | Sevilla TV |1280 x 720 | [m3u8](http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8) - [web](http://live.sevillafc.es/) |
 
-### Noticias
+### Información
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | 24h | 1280 x 720 | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
@@ -71,6 +70,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Hispan TV | 1280 x 720 | [web](https://www.youtube.com/c/hispantv/live)|
 | Libertad Digital TV | 1280 x 720 | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
 | Canal Parlamento | 1280 x 720 | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
+| Intereconomía | 1280 x 720 | [m3u8](http://s |treaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) - [web](http://www.intereconomia.tv/) |
 
 ### Música
 | Canales         | Resolución máxima | Enlaces |
