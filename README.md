@@ -63,10 +63,10 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | ------------- |------------- |------------- |
 | 24h | 1280 x 720 | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
 | EuropaPress | 1280 x 720 | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)|
-| Hispan TV | 1280 x 720 | [web](https://www.youtube.com/c/hispantv/live)|
+| HispanTV | 1280 x 720 | [Youtube](https://www.youtube.com/c/hispantv/live) -[web](https://www.hispantv.com/directo)|
 | Libertad Digital TV | 1280 x 720 | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
 | Canal Parlamento | 1280 x 720 | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
-| Intereconomía | 1280 x 720 | [m3u8](http://s |treaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) - [web](http://www.intereconomia.tv/) |
+| Intereconomía | 1280 x 720 | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) - [web](http://www.intereconomia.tv/) |
 
 ### Música
 | Canales         | Resolución máxima | Enlaces |
