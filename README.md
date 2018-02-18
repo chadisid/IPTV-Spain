@@ -43,8 +43,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Clan | 1280 x 720 | |
-| Boing | 1280 x 720 | [web](http://www.mitele.es/directo/boing)|
+| Boing | 1280 x 720  | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8) [web](http://www.mitele.es/directo/boing)|
 | Disney Channel | 1280 x 720 | [web](http://tv.disney.es/disney-channel?autoplay=true) |
 
 ### Deporte
