@@ -20,7 +20,6 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Cuatro HD | 1280 x 720 | [m3u8(1)](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) [m3u8(2)](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
 | Telecinco HD | 1280 x 720 | [m3u8(1)](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) [m3u8(2)](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
 | La Sexta | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
-| Trece | 720 x 404 | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) - [web](http://trecetv.es/directo)|
 
 ## Canales temáticos
 
@@ -36,7 +35,8 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Divinity | 1280 x 720 | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/divinity)|
 | Energy | 1280 x 720 | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/energy)|
 | BeMad HD | 1280 x 720 | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/bemad)|
-| Paramount Channel | 640 x 360 | [m3u8](paramount.live.flumotion.com/live/playlist.m3u8) - [web](http://www.paramountchannel.es/programacion/en-directo)|
+| Paramount Channel | 640 x 360 | [m3u8](http://paramount.live.flumotion.com/live/playlist.m3u8) - [web](http://www.paramountchannel.es/programacion/en-directo)|
+| Trece | 720 x 404 | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) - [web](http://trecetv.es/directo)|
 
 
 ### Infantiles
