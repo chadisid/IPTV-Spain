@@ -15,7 +15,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | La 1 | 1024 x 576 | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
-| La 2 | 1024 x 576 | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8) -[web](http://www.rtve.es/directo/la-2/)|
+| La 2 | 1024 x 576 | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8) - [web](http://www.rtve.es/directo/la-2/)|
 | Antena 3 | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
 | Cuatro HD | 1280 x 720 | [m3u8(1)](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [m3u8(2)](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
 | Telecinco HD | 1280 x 720 | [m3u8(1)](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [m3u8(2)](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
@@ -43,20 +43,18 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Boing | 1280 x 720  | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8) [web](http://www.mitele.es/directo/boing)|
+| Boing | 1280 x 720  | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/boing)|
 | Disney Channel | 1280 x 720 | [web](http://tv.disney.es/disney-channel?autoplay=true) |
 
 ### Deporte
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Teledeporte | 1280 x 720 | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8) - [web](http://www.rtve.es/directo/teledeporte/)| 
+| Teledeporte | 1024 x 576 | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8) - [web](http://www.rtve.es/directo/teledeporte/)| 
 | Teledeporte HD | 1280 x 720 | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8) - [web](http://www.rtve.es/deportes/mas-tdp/directo/)|
-| Gol TV | 1280 x 720 | [m3u8](http://cdn.opencable.es/hls/live/goltv/index.m3u8) - [web](http://www.goltelevision.com/live) |
-| Real Madrid TV | 1280 x 720 | [m3u8 (español)](http://https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 (inglés)](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) - [web](http://www.realmadrid.com/real-madrid-tv) |
-| Barça TV | 1280 x 720 | |
+| Realmadrid TV | 1280 x 720 | [m3u8 (español)](http://https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 (inglés)](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) - [web](http://www.realmadrid.com/real-madrid-tv) |
 | Betis TV | 1280 x 720 | [m3u8](http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8) - [web](http://play.rbetis.webtv.flumotion.com/play/player?player=1&pod=3)|
-| Sevilla TV |1280 x 720 | [m3u8](http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8) - [web](http://live.sevillafc.es/) |
+| Sevilla FC TV | 640 x 360 | [m3u8](http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8) - [web](http://live.sevillafc.es/) |
 
 ### Información
 | Canales         | Resolución máxima | Enlaces |
@@ -105,7 +103,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Super3/33 | 1280 x 720 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/super3/)|
 | Esports3 | 1280 x 720 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/esport3)|
 | La 1 Catalunya | 1280 x 720 | [web](http://www.rtve.es/television/catalunya/directo/) |
-| 8tv | 1280 x 720 | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8) - [web](http://www.8tv.cat/directe/) |
+| 8tv | 718 x 404 | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8) - [web](http://www.8tv.cat/directe/) |
 | El Punt Avui TV | 1280 x 720 | [m3u8](http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8) - [web](http://www.elpuntavui.tv/directe.html) |
 
 ### Canarias
