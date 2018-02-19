@@ -6,7 +6,7 @@ Estos canales se pueden ver gratuitamente con la aplicación adecuada según la 
 
 Para abrir los enlaces *m3u8* con el reproductor multimedia **VLC** se puede consultar el [tutorial](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc). Para usar la aplicación **SSIPTV** se puede consultar este [tutorial](https://www.achotv.com/ssiptv.php).
 
-Si encuentras algún error o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Ten en cuenta que algunos canales sólo emiten para España (emisión geolocalizada) o no emiten cuando no poseen los derechos de emisión del contenido fuera de España. Otros canales modifican su programación cuando no poseen los derechos de emisión por Internet de algún contenido.
+Si encuentras algún error o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Ten en cuenta que algunos canales sólo emiten para España (emisión geolocalizada) o no emiten cuando no poseen los derechos de emisión de un contenido fuera de España. Otros canales modifican su programación cuando no poseen los derechos de emisión por Internet de un contenido.
 
 Únicamente se incluyen los enlaces de los servidores o las plataformas oficiales. Si tienes los derechos de algún canal y quieres que retire su enlace, contáctame.
 
@@ -17,8 +17,8 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | La 1 | 1024 x 576 | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
 | La 2 | 1024 x 576 | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8) -[web](http://www.rtve.es/directo/la-2/)|
 | Antena 3 | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
-| Cuatro HD | 1280 x 720 | [m3u8(1)](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) [m3u8(2)](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
-| Telecinco HD | 1280 x 720 | [m3u8(1)](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) [m3u8(2)](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
+| Cuatro HD | 1280 x 720 | [m3u8(1)](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [m3u8(2)](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
+| Telecinco HD | 1280 x 720 | [m3u8(1)](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [m3u8(2)](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
 | La Sexta | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
 
 ## Canales temáticos
@@ -53,7 +53,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Teledeporte | 1280 x 720 | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8) - [web](http://www.rtve.es/directo/teledeporte/)| 
 | Teledeporte HD | 1280 x 720 | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8) - [web](http://www.rtve.es/deportes/mas-tdp/directo/)|
 | Gol TV | 1280 x 720 | [m3u8](http://cdn.opencable.es/hls/live/goltv/index.m3u8) - [web](http://www.goltelevision.com/live) |
-| Real Madrid TV | 1280 x 720 | [m3u8 - Español](http://https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 - Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) - [web](http://www.realmadrid.com/real-madrid-tv) |
+| Real Madrid TV | 1280 x 720 | [m3u8 (español)](http://https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 (inglés)](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) - [web](http://www.realmadrid.com/real-madrid-tv) |
 | Barça TV | 1280 x 720 | |
 | Betis TV | 1280 x 720 | [m3u8](http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8) - [web](http://play.rbetis.webtv.flumotion.com/play/player?player=1&pod=3)|
 | Sevilla TV |1280 x 720 | [m3u8](http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8) - [web](http://live.sevillafc.es/) |
@@ -63,7 +63,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | ------------- |------------- |------------- |
 | 24h | 1280 x 720 | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
 | EuropaPress | 1280 x 720 | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)|
-| HispanTV | 1280 x 720 | [Youtube](https://www.youtube.com/c/hispantv/live) -[web](https://www.hispantv.com/directo)|
+| HispanTV | 1280 x 720 | [Youtube](https://www.youtube.com/c/hispantv/live) - [web](https://www.hispantv.com/directo)|
 | Libertad Digital TV | 1280 x 720 | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
 | Canal Parlamento | 1280 x 720 | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
 | Intereconomía | 1280 x 720 | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) - [web](http://www.intereconomia.tv/) |
@@ -79,8 +79,8 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Canal Sur TV | 1280 x 720 | [web](https://www.youtube.com/watch?v=9_mHRWjztNU)|
-| Canal Sur Turismo TV | 1280 x 720 | [web](http://canalandaluciaturismo.es/index_pc.php)|
+| Canal Sur Andalucía | 1280 x 720 | [web](https://www.youtube.com/watch?v=9_mHRWjztNU)|
+| Canal Andalucía Turismo | 1280 x 720 | [web](http://canalandaluciaturismo.es/index_pc.php)|
 
 ### Aragón
 
