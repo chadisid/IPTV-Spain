@@ -1,8 +1,8 @@
 # Canales IPTV en abierto
 
-Lista de canales de televisión de España o en español que emiten en abierto mediante el protocolo de Internet (IPTV). Se indican los enlaces a los archivos de lista de reproducción **m3u8** y también los enlaces al reproductor **web**. En algún caso se incluye el enlace de la emisión en directo de **Youtube**.
+Lista de canales de televisión de España o en español que emiten en abierto mediante el protocolo de Internet (IPTV). Se icluyen los enlaces a los archivos de lista de reproducción **m3u8** y los enlaces al reproductor **web**. En caso de no existir enlace *m3u8*, se incluye el enlace de la emisión en directo de **Youtube**.
 
-Estos canales se pueden ver gratuitamente con la aplicación adecuada según la plataforma que se utilice. En el **ordenador** basta con abrir el enlace *m3u8* o de *Youtube* con el reproductor multimedia [VLC](https://www.videolan.org/vlc/index.es.html). En la **smart TV** la aplicación recomendada es [SSIPTV](http://ss-iptv.com/en) y en el **móvil** o la **tableta** se puede utilizar, por ejemplo, la aplicación [OttPlayer](https://ottplayer.es).
+Estos canales se pueden ver con la aplicación adecuada según la plataforma que se utilice. En el **ordenador** basta con abrir el enlace *m3u8* o de *Youtube* con el reproductor multimedia [VLC](https://www.videolan.org/vlc/index.es.html). En la **smart TV** la aplicación recomendada es [SSIPTV](http://ss-iptv.com/en) y en el **móvil** o la **tableta** se puede utilizar, por ejemplo, la aplicación [OttPlayer](https://ottplayer.es).
 
 Para abrir los enlaces *m3u8* con el reproductor multimedia **VLC** se puede consultar el [tutorial](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc). Para usar la aplicación **SSIPTV** se puede consultar este [tutorial](https://www.achotv.com/ssiptv.php).
 
@@ -61,7 +61,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | 24h | 1024 x 576 | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
-| Canal Parlamento | 640 x 360 | [m3u8(1)](http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8) - [m3u8(2)](http://congresodirectomobile.edgesuite.net/liv(e/live6.stream/manifest.m3u8) - [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
+| Canal Parlamento | 640 x 360 | [m3u8(1)](http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8) - [m3u8(2)](http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8) - [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
 | EuropaPress | 720 x 486 | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)|
 | Intereconomía | 360 x 180 | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) - [web](http://www.intereconomia.tv/) |
 | Libertad Digital TV | 720 x 408 | [m3u8](http://stream-07.dc3.dailymotion.com/34/dm/3/xnm032/live-2.m3u8) - [web](https://tv.libertaddigital.com/directo.html)|
