@@ -62,12 +62,13 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | ------------- |------------- |------------- |
 | 24h | 1024 x 576 | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
 | Canal Parlamento | 640 x 360 | [m3u8(1)](http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8) - [m3u8(2)](http://congresodirectomobile.edgesuite.net/liv(e/live6.stream/manifest.m3u8) - [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
-| EuropaPress | 720 x 486 | [m3u8(1)](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8) - [m3u8(2)](http://cdnlive.shooowit.net/europapresslive/smil:ep.smil/master.m3u8)|
+| EuropaPress | 720 x 486 | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)|
 | Intereconomía | 360 x 180 | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) - [web](http://www.intereconomia.tv/) |
 | Libertad Digital TV | 720 x 408 | [m3u8](http://stream-07.dc3.dailymotion.com/34/dm/3/xnm032/live-2.m3u8) - [web](https://tv.libertaddigital.com/directo.html)|
-| Euronews español | 1280 x 720 | [m3u8(1)](http://stream-03.dc3.dailymotion.com/40/dm/3/x2j7hpf/live-3.m3u8) - [m3u8(2)](http://euronews-es-p9-cdn.hexaglobe.net/0462fe1532ce8fc097506cebd72ea21e/5a8c06c7/euronews/euronews-euronews-website-web-responsive-2/ewnsabrespri_spa.smil/ewnsabrespri_spa_720p.m3u8) - [web](http://es.euronews.com/live)|
-| DW español | 720 x 400 | [m3u8](http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8) - [web](http://www.dw.com/es/multimedia/tv-en-vivo/s-100837?channel=3)|
-| RT español | 1280 x 720 | [m3u8](https://secure-streams.akamaized.net/rt-esp/index.m3u8) - [Youtube](https://www.youtube.com/watch?v=mV8jp1N2fSw) - [web](https://actualidad.rt.com/en_vivo)|
+| Euronews | 1280 x 720 | [m3u8(1)](http://stream-03.dc3.dailymotion.com/40/dm/3/x2j7hpf/live-3.m3u8) - [m3u8(2)](http://euronews-es-p9-cdn.hexaglobe.net/0462fe1532ce8fc097506cebd72ea21e/5a8c06c7/euronews/euronews-euronews-website-web-responsive-2/ewnsabrespri_spa.smil/ewnsabrespri_spa_720p.m3u8) - [web](http://es.euronews.com/live)|
+| DW | 720 x 400 | [m3u8](http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8) - [web](http://www.dw.com/es/multimedia/tv-en-vivo/s-100837?channel=3)|
+| France 24 | 1280 x 720 | [Youtube](https://www.youtube.com/watch?v=Qj55jX-p3jM) - [web](http://www.france24.com/es/)|
+| RT en Español | 1280 x 720 | [m3u8](https://secure-streams.akamaized.net/rt-esp/index.m3u8) - [web](https://actualidad.rt.com/en_vivo)|
 | HispanTV | 1280 x 720 | [Youtube](https://www.youtube.com/c/hispantv/live) - [web](https://www.hispantv.com/directo)|
 
 
