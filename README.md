@@ -81,7 +81,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Canal Sur Andalucía | 1280 x 720 | [web](https://www.youtube.com/watch?v=9_mHRWjztNU)|
+| Canal Sur Andalucía | 1280 x 720 | [web](https://www.youtube.com/watch?v=Oo7sdiMKfG0)|
 | Canal Andalucía Turismo | 1280 x 720 | [web](http://canalandaluciaturismo.es/index_pc.php)|
 
 ### Aragón
