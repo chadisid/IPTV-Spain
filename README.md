@@ -33,8 +33,8 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Atreseries HD | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/)|
 | FDF | 1280 x 720 | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/fdf)|
 | Divinity | 1280 x 720 | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/divinity)|
-| Energy | 1280 x 720 | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/energy)|
-| BeMad HD | 1280 x 720 | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/bemad)|
+| Energy | 1280 x 720 | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/energy)|
+| BeMad HD | 1280 x 720 | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/bemad)|
 | Paramount Channel | 640 x 360 | [m3u8](http://paramount.live.flumotion.com/live/playlist.m3u8) - [web](http://www.paramountchannel.es/programacion/en-directo)|
 | Trece | 720 x 404 | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) - [web](http://trecetv.es/directo)|
 
@@ -43,7 +43,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Boing | 1280 x 720  | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/boing)|
+| Boing | 1280 x 720  | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/boing)|
 | Disney Channel | 1280 x 720 | [web](http://tv.disney.es/disney-channel?autoplay=true) |
 
 ### Deporte
