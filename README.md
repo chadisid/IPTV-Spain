@@ -80,11 +80,11 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Canal Sur Andalucía | 1920 x 1080 | [m3u8](http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8) - [web](https://www.youtube.com/watch?v=Oo7sdiMKfG0)|
+| Canal Sur Andalucía | 1920 x 1080 | [Youtube](https://youtu.be/fltX-LoVNOk) - [web](http://www.canalsur.es/tv_directo-1193.html)|
 | Canal Andalucía Cocina | 864 x 486 | [m3u8](http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8) - [web](http://canalandaluciacocina.es)|
 | Canal Andalucía Flamenco | 864 x 486 | [m3u8](http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8) - [web](http://canalandaluciaflamenco.es)|
 | Canal Andalucía Turismo | 864 x 486 | [m3u8](http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8) - [web](http://canalandaluciaturismo.es)|
-| La Banda TV | 864 x 486 | [m3u8](http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8) - [web](http://labanda.canalsur.es/la_banda_tv-541.html)|
+| La Banda TV | 864 x 486 | [m3u8](http://cast.streamingconnect.com:1935/cslabanda/cslabanda/playlist.m3u8) - [web](http://labanda.canalsur.es/la_banda_tv-541.html)|
 
 ### Aragón
 
