@@ -90,7 +90,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Aragón TV | 1280 x 720 | [m3u8](http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8) - [web](http://www.aragontelevision.es/) |
+| Aragón TV INT | 640 x 360 | [m3u8](http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8) - [web](http://www.aragontelevision.es/directo) |
 
 ### Principado de Asturias
 
