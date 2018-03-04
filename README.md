@@ -60,7 +60,6 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | ------------- |------------- |------------- |
 | 24h | 1024 x 576 | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
 | Canal Parlamento | 640 x 360 | [m3u8(1)](http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8) - [m3u8(2)](http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8) - [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
-| Europa Press | 720 x 486 | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)|
 | Intereconomía | 360 x 180 | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) - [web](http://www.intereconomia.tv/) |
 | Libertad Digital TV | 720 x 408 | [m3u8](http://stream-07.dc3.dailymotion.com/34/dm/3/xnm032/live-2.m3u8) - [web](https://tv.libertaddigital.com/directo.html)|
 | Euronews | 1280 x 720 | [Dailymotion](http://www.dailymotion.com/video/x2j7hpf) - [web](http://es.euronews.com/live)|
@@ -81,8 +80,11 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Canal Sur Andalucía | 1280 x 720 | [web](https://www.youtube.com/watch?v=Oo7sdiMKfG0)|
-| Canal Andalucía Turismo | 1280 x 720 | [web](http://canalandaluciaturismo.es/index_pc.php)|
+| Canal Sur Andalucía | 1920 x 1080 | [m3u8](http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8) - [web](https://www.youtube.com/watch?v=Oo7sdiMKfG0)|
+| Canal Andalucía Cocina | 864 x 486 | [m3u8](http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8) - [web](http://canalandaluciacocina.es)|
+| Canal Andalucía Flamenco | 864 x 486 | [m3u8](http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8) - [web](http://canalandaluciaflamenco.es)|
+| Canal Andalucía Turismo | 864 x 486 | [m3u8](http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8) - [web](http://canalandaluciaturismo.es)|
+| La Banda TV | 864 x 486 | [m3u8](http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8) - [web](http://labanda.canalsur.es/la_banda_tv-541.html)|
 
 ### Aragón
 
