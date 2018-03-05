@@ -8,7 +8,7 @@ Para abrir los enlaces *m3u8* con el reproductor multimedia **VLC** se puede con
 
 Si encuentras algún error o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Ten en cuenta que algunos canales sólo emiten para España (emisión geolocalizada) o dejan de emitir cuando no poseen los derechos de emisión por Internet de un contenido. Otros canales modifican su programación cuando no poseen los derechos de emisión por Internet de un contenido.
 
-Únicamente se incluyen los enlaces de los servidores o las plataformas oficiales. Si tienes los derechos de algún canal y quieres que retire su enlace, contáctame.
+Únicamente se incluyen los enlaces de los servidores o las plataformas oficiales. Si eres dueño de los derechos de emisin de algún canal y quieres que retire su enlace, contáctame.
 
 ## Canales generalistas
 
