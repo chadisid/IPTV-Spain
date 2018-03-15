@@ -96,7 +96,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Asturias RTV | 640 x 368 | [m3u8](http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8) - [web](http://www.rtpa.es/television) |
+| TPA | 640 x 368 | [m3u8](http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8) - [web](http://www.rtpa.es/television) |
 
 ### Cataluña
 
