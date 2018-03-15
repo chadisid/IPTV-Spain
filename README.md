@@ -122,7 +122,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Popular TV | 1280 x 720 | [m3u8](http://cls.todostreaming.eu/ptvcantabria/livestream/playlist.m3u8) - [web](http://populartvcantabria.com/livetv/) |
+| Popular TV Cantabria | 640 x 512 | [m3u8](http://cls.todostreaming.eu/ptvcantabria/livestream/playlist.m3u8) - [web](http://populartvcantabria.com/livetv/) |
 
 ### Castilla-La Mancha
 
