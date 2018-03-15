@@ -109,16 +109,13 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Super3/33 | 640 x 360 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/super3/)|
 | Esports3 | 640 x 360 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/esport3)|
 | 8tv | 718 x 404 | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8) - [web](http://www.8tv.cat/directe/) |
-| El Punt Avui TV | 1280 x 720 | [m3u8](http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8) - [web](http://www.elpuntavui.tv/directe.html) |
+| El Punt Avui TV | 640 x 360 | [m3u8](http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8) - [web](http://www.elpuntavui.tv/directe.html) |
 
 ### Canarias
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| RTV Canaria | 1280 x 720 | [web](http://www.rtvc.es/television/directo.aspx) |
-| Mírame TV | |
-| El Día TV | 1280 x 720 | [m3u8](http://vs8.live.opencaster.com/opencaster/zmyrfjHztaoj/playlist.m3u8) - [web](https://www.opencaster.com/eldiatv-100-100) |
-| Lancelot TV | 1280 x 720 | [m3u8](http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8) - [web](http://www.lancelot.tv/directo)|
+| TV Canaria | 640 x 360 | [m3u8](http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/playlist.m3u8) - [web](http://www.rtvc.es/television/directo.aspx) |
 
 
 ### Cantabria
