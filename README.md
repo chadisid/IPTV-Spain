@@ -80,7 +80,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Canal Sur Andalucía | 1920 x 1080 | [Youtube](https://youtu.be/fltX-LoVNOk) - [web](http://www.canalsur.es/tv_directo-1193.html)|
+| Canal Sur Andalucía | 1920 x 1080 | [Youtube](https://www.youtube.com/watch?v=j3qYMaEBzM8) - [web](http://www.canalsur.es/tv_directo-1193.html)|
 | Canal Andalucía Cocina | 864 x 486 | [m3u8](http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8) - [web](http://canalandaluciacocina.es)|
 | Canal Andalucía Flamenco | 864 x 486 | [m3u8](http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8) - [web](http://canalandaluciaflamenco.es)|
 | Canal Andalucía Turismo | 864 x 486 | [m3u8](http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8) - [web](http://canalandaluciaturismo.es)|
