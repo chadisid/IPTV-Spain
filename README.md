@@ -102,7 +102,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| IB3 Global | 1280 x 720 | [Youtube](https://www.youtube.com/watch?v=CCrFsDEoZ1k) - [web](http://ib3tv.com/directe) |
+| IB3 Global | 896 x 504 | [m3u8](http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8) - [web](http://ib3tv.com/directe) |
 
 ### Canarias
 
