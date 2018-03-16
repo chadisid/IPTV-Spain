@@ -96,13 +96,13 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| TPA | 640 x 368 | [m3u8](http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8) - [web](http://www.rtpa.es/television) |
+| Asturias 7 (TPA) | 640 x 368 | [m3u8](http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8) - [web](http://www.rtpa.es/television) |
 
 ### Islas Baleares
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| IB3 TV | 1280 x 720 | [m3u8](https://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8) - [web](http://ib3tv.com/directe) |
+| IB3 Global | 1280 x 720 | [Youtube](https://www.youtube.com/watch?v=CCrFsDEoZ1k) - [web](http://ib3tv.com/directe) |
 
 ### Canarias
 
