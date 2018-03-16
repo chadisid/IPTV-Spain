@@ -98,25 +98,17 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | ------------- |------------- |------------- |
 | TPA | 640 x 368 | [m3u8](http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8) - [web](http://www.rtpa.es/television) |
 
-### Cataluña
+### Islas Baleares
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| La 1 Catalunya | 1024 x 576 | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/master.m3u8) - [web](http://www.rtve.es/television/catalunya/directo/) |
-| TV3 | 640 x 360 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/tv3)|
-| TV3CAT (internacional) | 640 x 360 | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/tv3cat/)|
-| 3/24 | 640 x 360 | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/324)|
-| Super3/33 | 640 x 360 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/super3/)|
-| Esports3 | 640 x 360 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/esport3)|
-| 8tv | 718 x 404 | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8) - [web](http://www.8tv.cat/directe/) |
-| El Punt Avui TV | 640 x 360 | [m3u8](http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8) - [web](http://www.elpuntavui.tv/directe.html) |
+| IB3 TV | 1280 x 720 | [m3u8](https://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8) - [web](http://ib3tv.com/directe) |
 
 ### Canarias
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | TV Canaria | 640 x 360 | [m3u8](http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/playlist.m3u8) - [web](http://www.rtvc.es/television/directo.aspx) |
-
 
 ### Cantabria
 
@@ -137,6 +129,24 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | ------------- |------------- |------------- |
 | Castilla y León TV | 1280 x 720 | [web](http://www.rtvcyl.es/Directo.aspx) |
 
+### Cataluña
+
+| Canales         | Resolución máxima | Enlaces |
+| ------------- |------------- |------------- |
+| La 1 Catalunya | 1024 x 576 | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/master.m3u8) - [web](http://www.rtve.es/television/catalunya/directo/) |
+| TV3 | 640 x 360 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/tv3)|
+| TV3CAT (internacional) | 640 x 360 | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/tv3cat/)|
+| 3/24 | 640 x 360 | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/324)|
+| Super3/33 | 640 x 360 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/super3/)|
+| Esports3 | 640 x 360 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/esport3)|
+| 8tv | 718 x 404 | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8) - [web](http://www.8tv.cat/directe/) |
+| El Punt Avui TV | 640 x 360 | [m3u8](http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8) - [web](http://www.elpuntavui.tv/directe.html) |
+
+### Comunidad Valenciana
+
+| Canales         | Resolución máxima | Enlaces |
+| ------------- |------------- |------------- |
+| La 8 Mediterraneo | 1280 x 720 | [m3u8](http://streaming-fr02.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8)[web](http://www.laocho.tv/es/directo/) |
 
 ### Extremadura
 
@@ -155,11 +165,11 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Galicia Cultura TV | 1280 x 720 | [m3u8](http://cultural-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/en-directo/canles-directos-tvg/cultura)|
 | Galicia Momentos G TV | 1280 x 720 | [m3u8](http://momentog-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/en-directo/canles-directos-tvg/momentosG)|
 
-### Islas Baleares
+### La Rioja
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| IB3 TV | 1280 x 720 | [m3u8](https://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8) - [web](http://ib3tv.com/directe) |
+| TV Rioja | 1280 x 720 | [web](http://www.tvr.es/directo/) |
 
 ### Comunidad de Madrid
 
@@ -187,15 +197,3 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | ETB SAT Canal Vasco | 1280 x 720 | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8) - [web](http://www.eitb.eus/es/television/etb-sat/) |
-
-### La Rioja
-
-| Canales         | Resolución máxima | Enlaces |
-| ------------- |------------- |------------- |
-| TV Rioja | 1280 x 720 | [web](http://www.tvr.es/directo/) |
-
-### Comunidad Valenciana
-
-| Canales         | Resolución máxima | Enlaces |
-| ------------- |------------- |------------- |
-| La 8 Mediterraneo | 1280 x 720 | [m3u8](http://streaming-fr02.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8)[web](http://www.laocho.tv/es/directo/) |
