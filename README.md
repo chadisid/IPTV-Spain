@@ -127,7 +127,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Castilla y León TV | 1280 x 720 | [web](http://www.rtvcyl.es/Directo.aspx) |
+| CyL7 WEB | 1280 x 720 | http://cdn.s2.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/playlist.m3u8 - [web](http://www.rtvcyl.es/Directo.aspx) |
 
 ### Cataluña
 
