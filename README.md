@@ -37,7 +37,10 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | BeMad HD | 1280 x 720 | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/bemad)|
 | Paramount Channel | 640 x 360 | [m3u8](http://paramount.live.flumotion.com/live/playlist.m3u8) - [web](http://www.paramountchannel.es/programacion/en-directo)|
 | Trece | 720 x 404 | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) - [web](http://trecetv.es/directo)|
-
+| Life TV | 1280 x 720 | [m3u8](http://178.132.6.97/uzivo/lifetvesp/playlist.m3u8) - [web](http://www.lifetelevision.es/)|
+| Media TV | 1280 x 720 | [m3u8](http://streaming7.streamteca.com:1935/moviles/G6IZN/playlist.m3u8) - [web](https://www.mediatv.pictures/)|
+| Travel TV | 1280 x 720 | [m3u8]() - [web](http://www.traveltve.com/)|
+| Vaughan TV | 1024 x 576 | [m3u8](https://5a7c29b05e247.streamlock.net/live/vaughantv/playlist.m3u8) - [web](https://grupovaughan.com/vaughan-tv/)|
 
 ### Infantiles
 
