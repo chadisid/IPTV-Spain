@@ -69,7 +69,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | DW | 720 x 400 | [m3u8](http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8) - [web](http://www.dw.com/es/multimedia/tv-en-vivo/s-100837?channel=3)|
 | France 24 | 1024 x 576 | [m3u8](http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8) - [youtube](https://www.youtube.com/watch?v=Qj55jX-p3jM) - [web](http://www.france24.com/es/)|
 | RT en Español | 1280 x 720 | [m3u8](https://secure-streams.akamaized.net/rt-esp/index.m3u8) - [youtube](https://www.youtube.com/watch?v=mV8jp1N2fSw) - [web](https://actualidad.rt.com/en_vivo)|
-| HispanTV | 1280 x 720 | [youtube](https://www.youtube.com/c/hispantv/live) - [web](https://www.hispantv.com/directo)|
+| HispanTV | 640 x 360 | [m3u8](https://5a61de8ed719d.streamlock.net/live/ngrp:hispantv_all/playlist.m3u8) - [youtube](https://www.youtube.com/c/hispantv/live) - [web](https://www.hispantv.com/directo)|
 
 
 ### Música
