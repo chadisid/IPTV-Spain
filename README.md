@@ -150,13 +150,13 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| La 8 Mediterraneo | 1280 x 720 | [m3u8](http://streaming-fr02.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8)[web](http://www.laocho.tv/es/directo/) |
+| La 8 Mediterráneo | 720 x 404 | [m3u8](http://streaming-fr02.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8)[web](http://www.laocho.tv/es/directo/) |
 
 ### Extremadura
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Canal Extremadura | 1280 x 720 | [m3u8](http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist.m3u8) - [web](http://www.canalextremadura.es/tv/directo#ahora)|
+| Canal Extremadura | 960 x 540 | [m3u8](http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist.m3u8) - [web](http://www.canalextremadura.es/tv/directo)|
 
 ### Galicia
 
