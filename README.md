@@ -2,9 +2,9 @@
 
 Lista de canales de televisión de España o en español que emiten en abierto por Internet. Para cada canal se indica el enlace al archivo de lista reproducción **m3u8** (IPTV) o el enlace de la emisión en directo de **YouTube**. También se incluye al enlace a la **web** oficial de emisión.
 
-Los canales de IPTV se pueden ver con la aplicación adecuada según la plataforma que se utilice. En el **ordenador** basta con abrir el enlace *m3u8* con el reproductor multimedia [VLC](https://www.videolan.org/vlc/index.es.html). En la **smart TV** la aplicación recomendada es [SSIPTV](http://ss-iptv.com/en) y en el **móvil** o la **tableta** se puede utilizar, por ejemplo, la aplicación [OttPlayer](https://ottplayer.es).
+Los canales de IPTV se pueden ver con la aplicación adecuada según la plataforma que se utilice. En el **ordenador** basta con abrir el enlace *m3u8* con el reproductor multimedia [VLC](https://www.videolan.org/vlc/index.es.html). En la **smart TV** se recomienda utilizar la aplicación [SSIPTV](http://ss-iptv.com/en) y en el **móvil** o la **tableta** se puede utilizar, por ejemplo, [OttPlayer](https://ottplayer.es).
 
-Para abrir los enlaces *m3u8* con el reproductor multimedia **VLC** se puede consultar este [tutorial](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc). Para usar la aplicación **SSIPTV** se puede consultar este [tutorial](https://www.achotv.com/ssiptv.php).
+Para abrir los enlaces *m3u8* con el reproductor multimedia **VLC** se puede consultar este [tutorial](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc). Para usar la aplicación **SSIPTV** se puede consultar este otro [tutorial](https://www.achotv.com/ssiptv.php).
 
 Si encuentras algún error o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Ten en cuenta que algunos canales sólo emiten para España (emisión geolocalizada) o dejan de emitir cuando no poseen los derechos de emisión por Internet de un contenido. Otros canales modifican su programación cuando no poseen los derechos de emisión por Internet de un contenido.
 
@@ -162,18 +162,13 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Galicia Europa TV | 1280 x 720 | [m3u8](http://europa-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa)|
-| Galicia América TV | 1280 x 720 | [m3u8](http://america-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america) |
-| Galicia Infantil TV | 1280 x 720 | [m3u8](http://infantil-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/en-directo/canles-directos-tvg/xabarin-tv)|
-| Galicia Musical TV | 1280 x 720 | [m3u8](http://musigal-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/en-directo/canles-directos-tvg/musigal)|
-| Galicia Cultura TV | 1280 x 720 | [m3u8](http://cultural-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/en-directo/canles-directos-tvg/cultura)|
-| Galicia Momentos G TV | 1280 x 720 | [m3u8](http://momentog-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/en-directo/canles-directos-tvg/momentosG)|
-
-### La Rioja
-
-| Canales         | Resolución máxima | Enlaces |
-| ------------- |------------- |------------- |
-| TV Rioja | 1280 x 720 | [web](http://www.tvr.es/directo/) |
+| TVG (Europa)| 640 x 360 | [m3u8](http://europa-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa)|
+| TVG (América) | 640 x 360 | [m3u8](http://america-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america) |
+| Mira RG | 640 x 360 | [m3u8](http://mirarg-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/tvg/tvg-en-directo/mira-rg-a-tarde) |
+| ZigZag-TV | 640 x 360 | [m3u8](http://cultural-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/en-directo/canles-directos-tvg/cultura)|
+| Xabarín TV | 640 x 360 | [m3u8](http://infantil-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/en-directo/canles-directos-tvg/xabarin-tv)|
+| Momentos G | 640 x 360 | [m3u8](http://momentog-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/en-directo/canles-directos-tvg/momentosG)|
+| Musigal | 640 x 360 | [m3u8](http://musigal-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/en-directo/canles-directos-tvg/musigal)|
 
 ### Comunidad de Madrid
 
@@ -181,7 +176,6 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | ------------- |------------- |------------- |
 | Telemadrid | 1280 x 720 | [m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8) - [web](http://www.telemadrid.es/emision-en-directo)|
 | laOtra | 1280 x 720 | [m3u8](http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8) - [web](http://www.telemadrid.es/emision-en-directo-laotra)|
-| C 33 Madrid | 1280 x 720 | [web](http://www.ustream.tv/embed/15741867?html5ui&autoplay=true) |
 
 
 ### Región de Murcia
