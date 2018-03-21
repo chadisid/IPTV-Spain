@@ -173,7 +173,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
 | TeleMadrid | 640 x 360 | [m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8) - [web](http://www.telemadrid.es/emision-en-directo)|
-| La Otra | 640 x 360 | [m3u8](http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8) - [web](http://www.telemadrid.es/emision-en-directo-laotra)|
+| LaOtra | 640 x 360 | [m3u8](http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8) - [web](http://www.telemadrid.es/emision-en-directo-laotra)|
 
 
 ### Región de Murcia
