@@ -63,7 +63,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | 24h | 1024 x 576 | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
 | Canal Parlamento | 640 x 360 | [m3u8(1)](http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8) - [m3u8(2)](http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8) - [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
 | Intereconomía | 1280 x 720 | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) - [web](http://www.intereconomia.tv/) |
-| Libertad Digital TV | 720 x 408 | [m3u8](http://stream-07.dc3.dailymotion.com/34/dm/3/xnm032/live-2.m3u8) - [web](https://tv.libertaddigital.com/directo.html)|
+| Libertad Digital TV | 720 x 408 | [m3u8](https://stream-12.dc3.dailymotion.com/47/dm/3/xnm032/live-2.m3u8) - [web](https://tv.libertaddigital.com/directo.html)|
 | Euronews | 1280 x 720 |  [youtube](https://www.youtube.com/watch?v=tiF-pkOoygo) - [web](http://es.euronews.com/live)|
 | DW | 720 x 400 | [m3u8](http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8) - [web](http://www.dw.com/es/multimedia/tv-en-vivo/s-100837?channel=3)|
 | France 24 | 1024 x 576 | [m3u8](http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8) - [youtube](https://www.youtube.com/watch?v=Qj55jX-p3jM) - [web](http://www.france24.com/es/)|
