@@ -1,4 +1,4 @@
-# Canales de TV en abierto
+# Canales de TV en línia
 
 Lista de canales de televisión de España o en español que emiten en abierto por Internet. Para cada canal se indica el enlace al archivo de lista reproducción **m3u8** (IPTV) o el enlace de la emisión en directo de **YouTube**. También se incluye el enlace a la **web** oficial de emisión.
 
