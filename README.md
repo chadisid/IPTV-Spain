@@ -1,10 +1,8 @@
 # Canales de TV en abierto
 
-Lista de canales de televisión de España o en español que emiten en abierto por Internet. Para cada canal se indica el enlace al archivo de lista reproducción **m3u8** (IPTV) o el enlace de la emisión en directo de **YouTube**. También se incluye al enlace a la **web** oficial de emisión.
+Lista de canales de televisión de España o en español que emiten en abierto por Internet. Para cada canal se indica el enlace al archivo de lista reproducción **m3u8** (IPTV) o el enlace de la emisión en directo de **YouTube**. También se incluye el enlace a la **web** oficial de emisión.
 
-Los canales de IPTV se pueden ver con la aplicación adecuada según la plataforma que se utilice. En el **ordenador** basta con abrir el enlace *m3u8* con el reproductor multimedia [VLC](https://www.videolan.org/vlc/index.es.html). En la **smart TV** se recomienda utilizar la aplicación [SSIPTV](http://ss-iptv.com/en) y en el **móvil** o la **tableta** se puede utilizar, por ejemplo, [OttPlayer](https://ottplayer.es).
-
-Para abrir los enlaces *m3u8* con el reproductor multimedia **VLC** se puede consultar este [tutorial](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc). Para usar la aplicación **SSIPTV** se puede consultar este otro [tutorial](https://www.achotv.com/ssiptv.php).
+Los canales de IPTV se pueden ver con la aplicación adecuada según la plataforma que se utilice. En el **ordenador** basta con abrir el enlace *m3u8* con el reproductor multimedia [VLC](https://www.videolan.org/vlc/index.es.html) ([tutorial](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc)). En la **smart TV** se recomienda utilizar la aplicación [SSIPTV](http://ss-iptv.com/en) ([tutorial](https://www.achotv.com/ssiptv.php)) y en el **móvil** o la **tableta** se puede utilizar, por ejemplo, [OttPlayer](https://ottplayer.es).
 
 Si encuentras algún error o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Ten en cuenta que algunos canales sólo emiten para España (emisión geolocalizada) o dejan de emitir cuando no poseen los derechos de emisión por Internet de un contenido. Otros canales modifican su programación cuando no poseen los derechos de emisión por Internet de un contenido.
 
