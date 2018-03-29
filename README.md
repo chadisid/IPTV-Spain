@@ -62,7 +62,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Canal Parlamento | 640 x 360 | [m3u8(1)](http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8) - [m3u8(2)](http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8) - [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
 | Intereconomía | 1280 x 720 | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) - [web](http://www.intereconomia.tv/) |
 | Libertad Digital TV | 720 x 408 | [web](https://tv.libertaddigital.com/directo.html)|
-| Euronews | 1280 x 720 |  [youtube](https://www.youtube.com/watch?v=tiF-pkOoygo) - [web](http://es.euronews.com/live)|
+| Euronews | 1280 x 720 |  [youtube](https://www.youtube.com/watch?v=tYRJQKmKOJo) - [web](http://es.euronews.com/live)|
 | DW | 720 x 400 | [m3u8](http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8) - [web](http://www.dw.com/es/multimedia/tv-en-vivo/s-100837?channel=3)|
 | France 24 | 1024 x 576 | [m3u8](http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8) - [youtube](https://www.youtube.com/watch?v=Qj55jX-p3jM) - [web](http://www.france24.com/es/)|
 | RT en Español | 1280 x 720 | [m3u8](https://secure-streams.akamaized.net/rt-esp/index.m3u8) - [youtube](https://www.youtube.com/watch?v=mV8jp1N2fSw) - [web](https://actualidad.rt.com/en_vivo)|
@@ -80,7 +80,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Canal Sur Andalucía | 1920 x 1080 | [youtube](https://www.youtube.com/watch?v=j3qYMaEBzM8) - [web](http://www.canalsur.es/tv_directo-1193.html)|
+| Canal Sur Andalucía | 1920 x 1080 | [youtube](https://www.youtube.com/watch?v=8NxMdfHreT4) - [web](http://www.canalsur.es/tv_directo-1193.html)|
 | Canal Andalucía Cocina | 864 x 486 | [m3u8](http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8) - [web](http://canalandaluciacocina.es)|
 | Canal Andalucía Flamenco | 864 x 486 | [m3u8](http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8) - [web](http://canalandaluciaflamenco.es)|
 | Canal Andalucía Turismo | 864 x 486 | [m3u8](http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8) - [web](http://canalandaluciaturismo.es)|
