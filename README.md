@@ -25,9 +25,9 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Neox | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/)|
-| Nova | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
-| Mega | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8) - [web](http://www.atresplayer.com/directos/television/mega/)|
+| Neox HD | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/)|
+| Nova HD | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
+| Mega HD | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8) - [web](http://www.atresplayer.com/directos/television/mega/)|
 | Atreseries HD | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/)|
 | FDF | 1280 x 720 | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/fdf)|
 | Divinity | 1280 x 720 | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/divinity)|
@@ -96,7 +96,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Asturias 7 (TPA) | 640 x 368 | [m3u8](http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8) - [web](http://www.rtpa.es/television) |
+| TPA | 640 x 368 | [m3u8](http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8) - [web](http://www.rtpa.es/television) |
 
 ### Islas Baleares
 
