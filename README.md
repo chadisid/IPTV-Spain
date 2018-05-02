@@ -29,8 +29,8 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | ------------- |------------- |------------- |
 | Neox HD (geolocalizada) | 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/geoneoxmpp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/)|
 | Neox HD | 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/neoxmpp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/)|
-| Nova HD (geolocalizada) | 1920 x 1080 | [m3u8](hhttps://atresplayerp-i.akamaized.net/geonovampp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
-| Nova HD | 1920 x 1080 | [m3u8](hhttps://atresplayerp-i.akamaized.net/novampp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
+| Nova HD (geolocalizada) | 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/geonovampp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
+| Nova HD | 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/novampp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
 | Mega HD (geolocalizada)| 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/geomegampp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/mega/)|
 | Mega HD | 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/megampp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/mega/)|
 | Atreseries HD (geolocalizada)| 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/geoa3seriesmpp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/)|
