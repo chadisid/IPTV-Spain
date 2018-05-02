@@ -14,7 +14,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | ------------- |------------- |------------- |
 | La 1 | 1024 x 576 | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
 | La 2 | 1024 x 576 | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8) - [web](http://www.rtve.es/directo/la-2/)|
-| Antena 3 HD (geolocalizada| 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/geoantena3mpp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
+| Antena 3 HD (geolocalizada) | 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/geoantena3mpp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
 | Antena 3 HD | 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
 | Cuatro HD | 1280 x 720 | [m3u8(1)](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [m3u8(2)](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
 | Telecinco HD | 1280 x 720 | [m3u8(1)](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [m3u8(2)](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
@@ -26,10 +26,14 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Neox HD | 1920 x 1080 | [m3u8](http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/)|
-| Nova HD | 1920 x 1080 | [m3u8](http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
-| Mega HD | 1920 x 1080 | [m3u8](http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8) - [web](http://www.atresplayer.com/directos/television/mega/)|
-| Atreseries HD | 1920 x 1080 | [m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/)|
+| Neox HD (geolocalizada) | 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/geoneoxmpp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/)|
+| Neox HD | 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/neoxmpp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/)|
+| Nova HD (geolocalizada) | 1920 x 1080 | [m3u8](hhttps://atresplayerp-i.akamaized.net/geonovampp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
+| Nova HD | 1920 x 1080 | [m3u8](hhttps://atresplayerp-i.akamaized.net/novampp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
+| Mega HD (geolocalizada)| 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/geomegampp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/mega/)|
+| Mega HD | 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/megampp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/mega/)|
+| Atreseries HD (geolocalizada)| 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/geoa3seriesmpp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/)|
+| Atreseries HD | 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/a3seriesmpp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/)|
 | FDF | 1280 x 720 | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/fdf)|
 | Divinity | 1280 x 720 | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/divinity)|
 | Energy | 1280 x 720 | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/energy)|
