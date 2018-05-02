@@ -18,7 +18,8 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | Antena 3 HD | 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
 | Cuatro HD | 1280 x 720 | [m3u8(1)](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [m3u8(2)](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
 | Telecinco HD | 1280 x 720 | [m3u8(1)](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [m3u8(2)](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
-| La Sexta HD | 1920 x 1080 | [m3u8](http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
+| La Sexta HD (emisión geolocalizada) | 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/geolasextampp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
+| La Sexta HD | 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/lasextampp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
 
 ## Canales temáticos
 
