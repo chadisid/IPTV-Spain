@@ -4,7 +4,7 @@ Lista de canales de televisión de España o en español que emiten en abierto p
 
 Los canales de IPTV se pueden ver con la aplicación adecuada según la plataforma que se utilice. En el **ordenador** basta con abrir el enlace *m3u8* con el reproductor multimedia [VLC](https://www.videolan.org/vlc/index.es.html) ([tutorial](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc)). En la **smart TV** se recomienda utilizar la aplicación [SSIPTV](http://ss-iptv.com/en) ([tutorial](https://www.achotv.com/ssiptv.php)) y en el **móvil** o la **tableta** se puede utilizar, por ejemplo, [OttPlayer](https://ottplayer.es).
 
-Si encuentras algún error o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Ten en cuenta que algunos canales sólo emiten para España (emisión geolocalizada) o dejan de emitir cuando no poseen los derechos de emisión por Internet de un contenido. Otros canales modifican su programación cuando no poseen los derechos de emisión por Internet de un contenido.
+Si encuentras algún error o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Ten en cuenta que algunos canales sólo emiten para España (emisión geolocalizada) o interrumpen su emisión cuando no poseen los derechos de emisión por Internet de un contenido. Otros modifican su programación cuando no poseen los derechos de emisión por Internet de un contenido.
 
 Únicamente se incluyen los enlaces de los servidores o las plataformas oficiales. Si eres dueño de los derechos de emisión de algún canal y quieres que retire su enlace, contáctame.
 
@@ -14,10 +14,11 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | ------------- |------------- |------------- |
 | La 1 | 1024 x 576 | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
 | La 2 | 1024 x 576 | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8) - [web](http://www.rtve.es/directo/la-2/)|
-| Antena 3 HD | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
+| Antena 3 HD (geolocalizada| 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/geoantena3mpp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
+| Antena 3 HD | 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
 | Cuatro HD | 1280 x 720 | [m3u8(1)](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [m3u8(2)](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
 | Telecinco HD | 1280 x 720 | [m3u8(1)](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [m3u8(2)](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
-| La Sexta HD | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
+| La Sexta HD | 1920 x 1080 | [m3u8](http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
 
 ## Canales temáticos
 
@@ -25,10 +26,10 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Neox HD | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/)|
-| Nova HD | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
-| Mega HD | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8) - [web](http://www.atresplayer.com/directos/television/mega/)|
-| Atreseries HD | 1280 x 720 | [m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/)|
+| Neox HD | 1920 x 1080 | [m3u8](http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/)|
+| Nova HD | 1920 x 1080 | [m3u8](http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
+| Mega HD | 1920 x 1080 | [m3u8](http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8) - [web](http://www.atresplayer.com/directos/television/mega/)|
+| Atreseries HD | 1920 x 1080 | [m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/)|
 | FDF | 1280 x 720 | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/fdf)|
 | Divinity | 1280 x 720 | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/divinity)|
 | Energy | 1280 x 720 | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/energy)|
@@ -80,7 +81,7 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 | Canales         | Resolución máxima | Enlaces |
 | ------------- |------------- |------------- |
-| Canal Sur Andalucía | 1920 x 1080 | [youtube](https://www.youtube.com/watch?v=8NxMdfHreT4) - [web](http://www.canalsur.es/tv_directo-1193.html)|
+| Canal Sur Andalucía | 1280 x 720 | [m3u8](http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8) - [web](http://www.canalsur.es/tv_directo-1193.html)|
 | Canal Andalucía Cocina | 864 x 486 | [m3u8](http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8) - [web](http://canalandaluciacocina.es)|
 | Canal Andalucía Flamenco | 864 x 486 | [m3u8](http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8) - [web](http://canalandaluciaflamenco.es)|
 | Canal Andalucía Turismo | 864 x 486 | [m3u8](http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8) - [web](http://canalandaluciaturismo.es)|
